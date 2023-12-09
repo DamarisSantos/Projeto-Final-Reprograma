@@ -6,20 +6,18 @@
 <!-- o <br> pula uma linha, como o enter -->
 
 <p align="center">
-<img src= "mãe-estudante" width="60%" height="50%"/>
+<img src= 'mãe-estudante.png' width="60%" height="50%"/>
 </p>
 <!-- dessa forma acima voce coloca imagens, gifs e afins, e pode manipular o tamanho, e esta centralizado -->
 <!-- pode fazer dessa forma tbm <img src="![.png) /> vai ficar centralizado mais sem manipulação de tamanho -->
 
 
 - [Descrição do Projeto](#-descrição-do-projeto) 
-- [Motivaçãoo](#-MOTIVAÇÃO) 
-- [Funcionalidades](#-funcionalidade) 
+- [Motivaçãoo](#-Motivação) 
+- [Funcionalidades](#-Funcionalidades) 
 - [:woman_technologist: Tecnologias e Dependências Utilizadas](#woman_technologist-tecnologias-e-dependências-utilizadas) 
-- [:construction_worker_woman: Instalação](#construction_worker_woman-instalação) 
-- [:unlock: Preparando o Ambiente Para Autenticação](#unlock-preparando-o-ambiente-para-autenticação) 
 - [:clinking_glasses: Agradecimentos](#clinking_glasses-agradecimentos) 
-- [:mage_woman: Autora](#mage_woman-autora)
+- [:art: Autora](#art-autora)
 
  
 # Descrição do Projeto
@@ -81,4 +79,13 @@ $ import seaborn as sns
 # Executar o comando na parte superior do arquivo em .ipynb para que você possa rodar o projeto localmente no arquivo 'analise_projeto.ipynb'.
 $ Run ou Run All
 ```
+# Agradecimentos
+
+Expresso minha profunda gratidão à minha amiga Verônica, cujo papel foi fundamental em minha decisão de ingressar no mundo da programação, indicando-me a Reprograma. À Reprograma, que não apenas abriu as portas para mim, mas também me recebeu calorosamente, em especial a Jani, Mayhara, Juliana, Loui, e todas as professoras e mentoras que contribuíram para a minha jornada. Agradeço imensamente ao meu marido, cujo apoio e compreensão foram fundamentais nesse processo. À minha mãe, que, mesmo tendo estudado apenas até a 4ª série, foi uma das mulheres mais inteligentes que já conheci. Ela criou sozinha cinco filhos, sendo quatro mulheres, que hoje, graças aos seus ensinamentos, são mulheres formadas. Acima de tudo, expresso minha gratidão a Deus.
+
+# :art: Autora
+
+Desenvolvido por Damaris Santos
+<p align="center"> clique >> <a href="https://www.linkedin.com/in/damaris-santos-15b810240/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue" target="_blank"></a> </p>
+
 
