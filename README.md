@@ -12,23 +12,23 @@
 <!-- pode fazer dessa forma tbm <img src="![.png) /> vai ficar centralizado mais sem manipulação de tamanho -->
 
 
-- [Descrição do Projeto](#-descrição-do-projeto) 
-- [Motivaçãoo](#-Motivação) 
-- [Funcionalidades](#-Funcionalidades) 
+- [:memo: Descrição do Projeto](#memo-descrição-do-projeto) 
+- [:pushpin: Motivaçãoo](#pushpin-motivação) 
+- [:memo: Funcionalidades](#memo-funcionalidades) 
 - [:woman_technologist: Tecnologias e Dependências Utilizadas](#woman_technologist-tecnologias-e-dependências-utilizadas) 
 - [:clinking_glasses: Agradecimentos](#clinking_glasses-agradecimentos) 
 - [:art: Autora](#art-autora)
 
  
-# Descrição do Projeto
+# :memo: Descrição do Projeto
 
 Este projeto visa analisar a situação educacional das mães e como a falta de apoio e informações por parte das instituições de ensino pode impactar suas decisões de desistir ou adiar os estudos. Nosso objetivo é entender esses desafios e propor maneiras de encorajar e apoiar as mulheres a concluírem seus estudos.
 
-# Motivação
+# :pushpin: Motivação
 
 Muitas mães enfrentam obstáculos significativos ao tentar equilibrar a maternidade e a busca por uma educação mais elevada. A falta de suporte e informações adequadas por parte das instituições de ensino pode contribuir para a desistência ou o adiamento dos estudos. Este projeto busca lançar luz sobre essas questões e encontrar soluções para incentivar as mães a perseguirem seus objetivos educacionais.
 
-# Funcionalidades
+# :memo: Funcionalidades
 
 1. **Análise de Dados:**
    - Coleta e análise de dados sobre a educação de mães, incluindo taxas de desistência e razões para adiamento.
@@ -79,7 +79,7 @@ $ import seaborn as sns
 # Executar o comando na parte superior do arquivo em .ipynb para que você possa rodar o projeto localmente no arquivo 'analise_projeto.ipynb'.
 $ Run ou Run All
 ```
-# Agradecimentos
+# :clinking_glasses: Agradecimentos
 
 Expresso minha profunda gratidão à minha amiga Verônica, cujo papel foi fundamental em minha decisão de ingressar no mundo da programação, indicando-me a Reprograma. À Reprograma, que não apenas abriu as portas para mim, mas também me recebeu calorosamente, em especial a Jani, Mayhara, Juliana, Loui, e todas as professoras e mentoras que contribuíram para a minha jornada. Agradeço imensamente ao meu marido, cujo apoio e compreensão foram fundamentais nesse processo. À minha mãe, que, mesmo tendo estudado apenas até a 4ª série, foi uma das mulheres mais inteligentes que já conheci. Ela criou sozinha cinco filhos, sendo quatro mulheres, que hoje, graças aos seus ensinamentos, são mulheres formadas. Acima de tudo, expresso minha gratidão a Deus.
 
